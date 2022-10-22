@@ -1,4 +1,6 @@
 # Определение перспективного тарифа для телеком-компании
+
+[ipymb](https://github.com/AnastasiyaVRd/Portfolio-RU/blob/main/Mobile%20tariffs/mobile%20tariffs.ipynb)
     
 **Название проекта**   
 Определение перспективного тарифа для телеком-компании.
