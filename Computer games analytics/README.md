@@ -1,5 +1,7 @@
 # Анализ рынка компьтерных игр
 
+[ipynb](https://github.com/AnastasiyaVRd/Portfolio-RU/blob/main/Computer%20games%20analytics/computer%20games%20analytics.ipynb)
+
 **Описание исследования**   
 Сделать анализ данных рынка компьютерных игр до 2016 года включительно для маркетингового отдела компании перед построением стратегии на будущий 2017 год. 
 
