@@ -1,6 +1,6 @@
 # Анализ рынка
 
-[]()
+[ipynb](https://github.com/AnastasiyaVRd/Portfolio-RU/blob/main/Market%20analysis/market%20analysis.ipynb)
 
 **Описание исследования**   
 Исследование рынка заведений общественного питания Москвы.
