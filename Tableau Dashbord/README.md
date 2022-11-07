@@ -3,7 +3,7 @@
 Работа над этим проектом была проведена на удаленной машине в сервисе Yandex.Cloud.
 
 [Дашборд Tableau](https://public.tableau.com/views/__16565156892120/_?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)   
-[Презентация]()
+[Презентация](https://github.com/AnastasiyaVRd/Portfolio-RU/blob/main/Tableau%20Dashbord/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%94%D0%B7%D0%B5%D0%BD_%D0%A0%D1%83%D0%B4%D1%8C%20%D0%90.%D0%92.pdf)
 
 ## Этапы выполнения проекта:
 
