@@ -1,4 +1,4 @@
-# Анализ клиентского опыта в приложении
+# Анализ каналов привлечения пользователей в приложение
 
 [ipynb](https://github.com/AnastasiyaVRd/Portfolio-RU/blob/main/Channels%20for%20attracting%20users/channels%20for%20attracting%20users.ipynb)
 
