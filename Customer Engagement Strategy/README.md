@@ -1,5 +1,7 @@
 # Cтратегия взаимодействия с клиентами
 
+[ipymb](https://github.com/AnastasiyaVRd/Portfolio-RU/blob/main/Customer%20Engagement%20Strategy/Customer%20Engagement%20Strategy.ipynb)
+
 **Описание исследования**  
 На основе аналитических данных разработать стратегию для отдела по работе с клиентами для сети фитнес-центров, которая приведёт к прогнозированию и уменьшению оттока клиентов.
 
