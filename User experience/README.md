@@ -1,5 +1,7 @@
 # Пользовательский опыт в приложении
 
+[ipymb](https://github.com/AnastasiyaVRd/Portfolio-RU/blob/main/User%20experience/user%20experience.ipynb)
+
 **Цель проекта:**   
 
 Исследовать поведение пользователей мобильного приложения по продаже продуктов питания.
